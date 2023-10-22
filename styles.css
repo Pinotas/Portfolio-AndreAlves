@@ -73,7 +73,8 @@ nav a:hover {
 }
 
 #hero {
-  background: url("hero-image.jpg") center/cover no-repeat;
+  background: url("./img/flat\,750x\,075\,f-pad\,750x1000\,f8f8f8.jpg")
+    center/cover no-repeat;
   color: #fff;
   padding: 50px 0;
 }
@@ -199,4 +200,7 @@ footer {
   .project p {
     font-size: 16px;
   }
+}
+#homepage {
+  color: #fff;
 }
