@@ -208,3 +208,6 @@ footer {
   font-size: 40px;
   text-decoration: none;
 }
+.modal-dialog {
+  color: black;
+}
