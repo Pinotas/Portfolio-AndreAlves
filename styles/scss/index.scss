@@ -1,3 +1,6 @@
+@import "variables";
+@import "buttons.scss";
+
 * {
   box-sizing: border-box;
 }
@@ -106,7 +109,7 @@ nav a:hover {
 }
 
 #hero {
-  background: url("./img/flat\,750x\,075\,f-pad\,750x1000\,f8f8f8.jpg")
+  background: url("../../img/flat\,750x\,075\,f-pad\,750x1000\,f8f8f8.jpg")
     center/cover no-repeat;
   color: #ffffff;
   padding: 50px 0;
@@ -185,22 +188,6 @@ textarea {
   padding: 10px;
   border: 1px solid #ddd;
   border-radius: 5px;
-}
-
-button[type="submit"] {
-  background-color: #eebbc3;
-  color: #fff;
-  border: none;
-  border-radius: 5px;
-  padding: 10px 20px;
-  font-weight: bold;
-  cursor: pointer;
-  border: 2px solid black;
-  border-color: #c0579e;
-}
-
-button[type="submit"]:hover {
-  background-color: #b8c1ec;
 }
 
 footer {
