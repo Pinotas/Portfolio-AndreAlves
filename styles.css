@@ -156,6 +156,8 @@ h2 {
   border: none;
   border-radius: 5px;
   font-weight: bold;
+  border: 2px solid black;
+  border-color: #c0579e;
 }
 
 .btn:hover {
@@ -193,6 +195,8 @@ button[type="submit"] {
   padding: 10px 20px;
   font-weight: bold;
   cursor: pointer;
+  border: 2px solid black;
+  border-color: #c0579e;
 }
 
 button[type="submit"]:hover {
